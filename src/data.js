@@ -408,7 +408,7 @@ export const sayingData = [
         url: "https://open.spotify.com/embed/track/60IzCvDzOwcOg4rdgV8Zlu?utm_source=generator"
     },
     {
-        saying: "いっそ飛べない鳥の羽なんかもがれちまえばいい",
+        saying: "いっそ飛べない鳥の羽なんかもがれちまえばいい そうぼやいてみたって未来は手を差し出してくれない",
         song: "未完",
         image: reflection,
         url: "https://open.spotify.com/embed/track/0lXrKeeEkBTAi7GFF5NZRa?utm_source=generator"
